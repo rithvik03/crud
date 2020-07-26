@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "a9fireapp": {
+      "hosting": {
+        "a9fireapp": [
+          "a9fireapp"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "a9fireapp"
+  }
+}
